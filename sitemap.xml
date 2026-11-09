@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://shengmoai.cn/</loc></url>
-  <url><loc>https://shengmoai.cn/about</loc></url>
-  <url><loc>https://shengmoai.cn/features</loc></url>
-  <url><loc>https://shengmoai.cn/contact</loc></url>
-  <url><loc>https://shengmoai.cn/service</loc></url>
-  <url><loc>https://shengmoai.cn/docs</loc></url>
-  <url><loc>https://shengmoai.cn/changelog</loc></url>
-  <url><loc>https://shengmoai.cn/privacy</loc></url>
-  <url><loc>https://shengmoai.cn/terms</loc></url>
-  <url><loc>https://shengmoai.cn/support</loc></url>
+  <url><loc>https://shengmoai.cn/about/</loc></url>
+  <url><loc>https://shengmoai.cn/features/</loc></url>
+  <url><loc>https://shengmoai.cn/contact/</loc></url>
+  <url><loc>https://shengmoai.cn/service/</loc></url>
+  <url><loc>https://shengmoai.cn/docs/</loc></url>
+  <url><loc>https://shengmoai.cn/changelog/</loc></url>
+  <url><loc>https://shengmoai.cn/privacy/</loc></url>
+  <url><loc>https://shengmoai.cn/terms/</loc></url>
+  <url><loc>https://shengmoai.cn/support/</loc></url>
 </urlset>

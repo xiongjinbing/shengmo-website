@@ -1,0 +1,8 @@
+:root { color-scheme: dark; font-family: system-ui, sans-serif; color: #e9f7f5; background: #101e21; }
+body { margin: 0; }
+main { width: min(42rem, calc(100% - 2rem)); margin: 4rem auto; line-height: 1.65; }
+section { border: 1px solid #31635d; border-radius: 14px; background: #162c2d; padding: 1rem 1.25rem; margin: 1.5rem 0; }
+h2 { font-size: 1rem; margin: 0 0 .75rem; }
+code { margin-right: .75rem; overflow-wrap: anywhere; user-select: all; }
+a { color: #70e0cd; }
+button, .download { display: inline-block; border: 0; border-radius: .5rem; background: #6ee2cb; color: #112524; padding: .6rem .9rem; font: inherit; font-weight: 700; text-decoration: none; cursor: pointer; }

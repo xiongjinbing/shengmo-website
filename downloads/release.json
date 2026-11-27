@@ -1,10 +1,10 @@
 {
-  "version": "0.1.15",
-  "build_id": "2026-10-04-WINDOWS-RC-85",
-  "date": "2026-10-04",
-  "url": "/downloads/ShengMo-Setup-0.1.15-x64.exe",
-  "filename": "ShengMo-Setup-0.1.15-x64.exe",
-  "bytes": 11230502,
-  "sha256": "359c7395455507d89d31609981d9d3600bf05f75be889c354cc6bafa2477def5",
-  "release_notes": "ShengMo Windows x64 正式安装包：品牌安装图标、客户端图标与发布元数据已统一。"
+  "version": "0.1.28",
+  "build_id": "2026-11-22-WINDOWS-PAYMENT-RC-120",
+  "date": "2026-11-26",
+  "url": "https://github.com/xiongjinbing/shengmo-releases/releases/download/v0.1.28/ShengMo-Setup-0.1.28-RC121-Release-x64.exe",
+  "filename": "ShengMo-Setup-0.1.28-RC121-Release-x64.exe",
+  "bytes": 45566688,
+  "sha256": "80a69a5f01a0abe2a3f989717f6120abc73efd3688a75c16d4d2fab6ba5879ba",
+  "release_notes": "ShengMo 0.1.28 Windows x64 正式安装包。"
 }

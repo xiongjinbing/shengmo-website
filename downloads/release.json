@@ -1,10 +1,10 @@
 {
-  "version": "0.1.28",
-  "build_id": "2026-11-22-WINDOWS-PAYMENT-RC-120",
-  "date": "2026-11-26",
-  "url": "https://github.com/xiongjinbing/shengmo-releases/releases/download/v0.1.28/ShengMo-Setup-0.1.28-RC121-Release-x64.exe",
-  "filename": "ShengMo-Setup-0.1.28-RC121-Release-x64.exe",
-  "bytes": 45566688,
-  "sha256": "80a69a5f01a0abe2a3f989717f6120abc73efd3688a75c16d4d2fab6ba5879ba",
-  "release_notes": "ShengMo 0.1.28 Windows x64 正式安装包。"
+  "version": "0.1.29",
+  "build_id": "2026-11-27-WINDOWS-QR-INPUT-0.1.29",
+  "date": "2026-11-27",
+  "url": "https://github.com/xiongjinbing/shengmo-releases/releases/download/v0.1.29/ShengMo-Setup-0.1.29-x64.exe",
+  "filename": "ShengMo-Setup-0.1.29-x64.exe",
+  "bytes": 45544844,
+  "sha256": "661e6c73da9907af46cfdcdd18860a6b419a82757355add9479b7d8f0feabd40",
+  "release_notes": "锁定支付宝二维码区域的滚轮滑动和默认右键菜单。"
 }
